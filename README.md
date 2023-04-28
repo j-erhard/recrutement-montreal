@@ -15,7 +15,8 @@ pip3 install opencv-python
 2) Voir main.py
 3) J'utiliserais un algorithme de détection de pose 
 de la bibliothèque OpenCV. L'algorithme me permettra
-d'obtenir les points clef du corps tel que l'épaule. 
+d'obtenir les points clef du corps tel que l'épaule.
+Le résultat sera affiché sur l'image. 
 
 ## Exercice 2:
 1) Voir doc https://github.com/pyomeca/bioptim#installation-complete
